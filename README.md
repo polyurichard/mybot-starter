@@ -1,1 +1,5 @@
-# mybot-starter
+# Your Information
+
+Name: 
+
+Student ID:
